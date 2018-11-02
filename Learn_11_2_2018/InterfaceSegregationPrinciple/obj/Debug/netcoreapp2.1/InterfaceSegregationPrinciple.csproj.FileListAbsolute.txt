@@ -1,0 +1,8 @@
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.deps.json
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.pdb
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.pdb

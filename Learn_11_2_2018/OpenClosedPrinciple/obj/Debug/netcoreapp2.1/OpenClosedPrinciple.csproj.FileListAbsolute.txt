@@ -1,0 +1,9 @@
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.deps.json
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.pdb
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.pdb

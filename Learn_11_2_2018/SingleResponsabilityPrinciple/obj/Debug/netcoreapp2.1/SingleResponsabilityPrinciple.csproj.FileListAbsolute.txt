@@ -1,0 +1,9 @@
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.deps.json
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\bin\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.pdb
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.csprojAssemblyReference.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.AssemblyInfo.cs
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\SingleResponsabilityPrinciple\obj\Debug\netcoreapp2.1\SingleResponsabilityPrinciple.pdb
