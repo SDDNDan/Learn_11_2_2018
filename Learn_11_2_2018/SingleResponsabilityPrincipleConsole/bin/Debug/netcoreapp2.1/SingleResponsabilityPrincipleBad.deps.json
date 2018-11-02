@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SingleResponsabilityPrincipleBad/1.0.0": {
+        "dependencies": {
+          "SingleResponsabilityPrinciple": "1.0.0"
+        },
+        "runtime": {
+          "SingleResponsabilityPrincipleBad.dll": {}
+        }
+      },
+      "SingleResponsabilityPrinciple/1.0.0": {
+        "runtime": {
+          "SingleResponsabilityPrinciple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingleResponsabilityPrincipleBad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingleResponsabilityPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
