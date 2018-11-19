@@ -6,3 +6,4 @@ C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinc
 C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrinciple.AssemblyInfo.cs
 C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrinciple.dll
 C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrinciple.pdb
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrinciple.csprojAssemblyReference.cache

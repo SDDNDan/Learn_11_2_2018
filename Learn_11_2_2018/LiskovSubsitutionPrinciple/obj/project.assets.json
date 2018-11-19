@@ -687,9 +687,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dslusari\\Desktop\\Learn_11_2_2018\\Learn_11_2_2018\\LiskovSubsitutionPrinciple\\LiskovSubsitutionPrinciple.csproj",
-      "projectName": "LiskovSubsitutionPrinciple",
-      "projectPath": "C:\\Users\\Dslusari\\Desktop\\Learn_11_2_2018\\Learn_11_2_2018\\LiskovSubsitutionPrinciple\\LiskovSubsitutionPrinciple.csproj",
+      "projectUniqueName": "C:\\Users\\Dslusari\\Desktop\\Learn_11_2_2018\\Learn_11_2_2018\\LiskovSubsitutionPrinciple\\LiskovSubstitutionPrincipleBad.csproj",
+      "projectName": "LiskovSubstitutionPrincipleBad",
+      "projectPath": "C:\\Users\\Dslusari\\Desktop\\Learn_11_2_2018\\Learn_11_2_2018\\LiskovSubsitutionPrinciple\\LiskovSubstitutionPrincipleBad.csproj",
       "packagesPath": "C:\\Users\\Dslusari\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dslusari\\Desktop\\Learn_11_2_2018\\Learn_11_2_2018\\LiskovSubsitutionPrinciple\\obj\\",
       "projectStyle": "PackageReference",
@@ -722,7 +722,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

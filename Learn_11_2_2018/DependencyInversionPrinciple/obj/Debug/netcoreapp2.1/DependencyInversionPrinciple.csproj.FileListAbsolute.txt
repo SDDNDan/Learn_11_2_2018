@@ -6,3 +6,4 @@ C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\DependencyInversionPri
 C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.AssemblyInfo.cs
 C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.dll
 C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.pdb
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.csprojAssemblyReference.cache

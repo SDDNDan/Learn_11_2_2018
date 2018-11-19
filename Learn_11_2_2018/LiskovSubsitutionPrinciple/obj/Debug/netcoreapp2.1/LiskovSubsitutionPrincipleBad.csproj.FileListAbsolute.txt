@@ -1,0 +1,8 @@
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.deps.json
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\bin\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.pdb
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.AssemblyInfoInputs.cache
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.AssemblyInfo.cs
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.dll
+C:\Users\Dslusari\Desktop\Learn_11_2_2018\Learn_11_2_2018\LiskovSubsitutionPrinciple\obj\Debug\netcoreapp2.1\LiskovSubsitutionPrincipleBad.pdb

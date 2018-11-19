@@ -5,15 +5,15 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{44E68A0D-2CB7-471D-974B-20BC9C3E0469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsabilityPrinciple", "SingleResponsabilityPrinciple\SingleResponsabilityPrinciple.csproj", "{3F5C55BD-BB83-4690-A69E-9C1D5A983166}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsabilityPrinciple", "SingleResponsabilityPrinciple\SingleResponsabilityPrinciple.csproj", "{3F5C55BD-BB83-4690-A69E-9C1D5A983166}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{47B87093-21DA-417B-ACF9-39917DADAE9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{47B87093-21DA-417B-ACF9-39917DADAE9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubsitutionPrinciple", "LiskovSubsitutionPrinciple\LiskovSubsitutionPrinciple.csproj", "{DDFE9034-E4EE-47E7-BF76-D9E6B47BBBC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrincipleBad", "LiskovSubsitutionPrinciple\LiskovSubstitutionPrincipleBad.csproj", "{DDFE9034-E4EE-47E7-BF76-D9E6B47BBBC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{2E645001-E092-4E5B-98FF-9D442BF4B1B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{2E645001-E092-4E5B-98FF-9D442BF4B1B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{6099DBA8-84D3-466F-B128-76820C5881E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{6099DBA8-84D3-466F-B128-76820C5881E5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GRASP", "GRASP", "{F2AFF72D-CC50-4559-8A85-EC7E66FAB181}"
 EndProject
@@ -22,9 +22,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP", "SRP", "{6080755D-82C
 		SingleResponsabilityPrinciple\WhatI'veLearned.txt = SingleResponsabilityPrinciple\WhatI'veLearned.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsabilityPrincipleBad", "SingleResponsabilityPrincipleConsole\SingleResponsabilityPrincipleBad.csproj", "{27A8CB68-427D-4C91-815A-B404A5462BAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsabilityPrincipleBad", "SingleResponsabilityPrincipleConsole\SingleResponsabilityPrincipleBad.csproj", "{27A8CB68-427D-4C91-815A-B404A5462BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsabilityPrincipleGood", "SingleResponsabilityPrincipleGood\SingleResponsabilityPrincipleGood.csproj", "{70A4FE98-FA39-4522-814C-A41B7FA0CA7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsabilityPrincipleGood", "SingleResponsabilityPrincipleGood\SingleResponsabilityPrincipleGood.csproj", "{70A4FE98-FA39-4522-814C-A41B7FA0CA7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LSP", "LSP", "{3CF8E908-6191-4729-8C3A-886E2B5303ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrincipleGood", "LiskovSubstitutionPrincipleGood\LiskovSubstitutionPrincipleGood.csproj", "{713701D5-3441-40B0-B44E-A11585132CE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,6 +64,10 @@ Global
 		{70A4FE98-FA39-4522-814C-A41B7FA0CA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70A4FE98-FA39-4522-814C-A41B7FA0CA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70A4FE98-FA39-4522-814C-A41B7FA0CA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713701D5-3441-40B0-B44E-A11585132CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713701D5-3441-40B0-B44E-A11585132CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713701D5-3441-40B0-B44E-A11585132CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713701D5-3441-40B0-B44E-A11585132CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,12 +75,14 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3F5C55BD-BB83-4690-A69E-9C1D5A983166} = {6080755D-82CD-4E06-94AB-8A94FC85E60B}
 		{47B87093-21DA-417B-ACF9-39917DADAE9A} = {44E68A0D-2CB7-471D-974B-20BC9C3E0469}
-		{DDFE9034-E4EE-47E7-BF76-D9E6B47BBBC0} = {44E68A0D-2CB7-471D-974B-20BC9C3E0469}
+		{DDFE9034-E4EE-47E7-BF76-D9E6B47BBBC0} = {3CF8E908-6191-4729-8C3A-886E2B5303ED}
 		{2E645001-E092-4E5B-98FF-9D442BF4B1B6} = {44E68A0D-2CB7-471D-974B-20BC9C3E0469}
 		{6099DBA8-84D3-466F-B128-76820C5881E5} = {44E68A0D-2CB7-471D-974B-20BC9C3E0469}
 		{6080755D-82CD-4E06-94AB-8A94FC85E60B} = {44E68A0D-2CB7-471D-974B-20BC9C3E0469}
 		{27A8CB68-427D-4C91-815A-B404A5462BAB} = {6080755D-82CD-4E06-94AB-8A94FC85E60B}
 		{70A4FE98-FA39-4522-814C-A41B7FA0CA7B} = {6080755D-82CD-4E06-94AB-8A94FC85E60B}
+		{3CF8E908-6191-4729-8C3A-886E2B5303ED} = {44E68A0D-2CB7-471D-974B-20BC9C3E0469}
+		{713701D5-3441-40B0-B44E-A11585132CE2} = {3CF8E908-6191-4729-8C3A-886E2B5303ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEF884A6-DECB-44C4-AB48-F62013401FC6}
